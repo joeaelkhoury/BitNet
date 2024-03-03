@@ -164,3 +164,4 @@ Eprint = {arXiv:2310.11453},
 - [x] Add unit tests for each module
 - [ ] Implement the new BitNet1.5b from the [paper](https://arxiv.org/abs/2402.17764)
 - [ ] Implement the BitNet15b in Cuda
+- [ ] 
